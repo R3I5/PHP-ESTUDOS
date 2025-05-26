@@ -11,8 +11,8 @@
 
     $e = (($a + $b) - $c)/$d;
 
-    echo"$e"
-
+    echo"$e";
+    echo"<br>"
 
 
 
