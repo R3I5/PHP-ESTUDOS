@@ -17,7 +17,7 @@ $c = 10;
 echo $a + $b / $c;
 echo"<br>";
 
-echo
+echo"<br>";
 $d = $a * $b * $c;
 echo "$d";
 
